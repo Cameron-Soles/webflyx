@@ -3,3 +3,4 @@
 - "I am your father"
 - "Do or do not. There is no try"
 - "I've got a bad feeling about this"
+- "Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering." 
