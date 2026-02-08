@@ -7,3 +7,4 @@
 - "Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering."
 - "You've failed, Your Highness. I am a Jedi, like my father before me."
 - "Your lightsabers will make a fine addition to my collection."
+- “So uncivilized.”
