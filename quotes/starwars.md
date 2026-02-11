@@ -8,3 +8,5 @@
 - "You've failed, Your Highness. I am a Jedi, like my father before me."
 - "Your lightsabers will make a fine addition to my collection."
 - “So uncivilized.”
+- "Laugh it up, fuzzball!"
+- "This is the way."
