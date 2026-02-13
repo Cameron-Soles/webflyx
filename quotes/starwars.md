@@ -10,3 +10,4 @@
 - “So uncivilized.”
 - "Laugh it up, fuzzball!"
 - "This is the way."
+- "I have spoken."
