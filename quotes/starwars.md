@@ -11,3 +11,4 @@
 - "Laugh it up, fuzzball!"
 - "This is the way."
 - "I have spoken."
+- "Manufacturer's protocol dictates I cannot be captured. I must be destroyed."
