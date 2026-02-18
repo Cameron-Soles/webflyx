@@ -13,3 +13,4 @@
 - "I have spoken."
 - "Manufacturer's protocol dictates I cannot be captured. I must be destroyed."
 - "Strike me down and I will become more powerful than you could possibly imagine."
+- "In my experience, there is no such thing as luck."
