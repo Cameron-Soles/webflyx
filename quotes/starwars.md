@@ -16,3 +16,4 @@
 - "In my experience, there is no such thing as luck."
 - "So this is how liberty dies. With thunderous applause."
 - "Never underestimate a droid."
+- "Rebellions are built on hope."
