@@ -18,3 +18,4 @@
 - "Never underestimate a droid."
 - "Rebellions are built on hope."
 - "The greatest teacher, failure is."
+- "The ability to speak does not make you intelligent."
