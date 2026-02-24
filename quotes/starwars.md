@@ -19,3 +19,4 @@
 - "Rebellions are built on hope."
 - "The greatest teacher, failure is."
 - "The ability to speak does not make you intelligent."
+- "Train yourself to let go of everything you fear to lose."
