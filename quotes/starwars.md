@@ -22,3 +22,4 @@
 - "Train yourself to let go of everything you fear to lose."
 - "I have the high ground."
 - "Why you stuck-up, half-witted, scruffy-looking nerf-herder!"
+- "Your focus determines your reality." 
