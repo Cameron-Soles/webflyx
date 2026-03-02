@@ -24,3 +24,4 @@
 - "Why you stuck-up, half-witted, scruffy-looking nerf-herder!"
 - "Your focus determines your reality."
 - "I can bring you in warm, or I can bring you in cold."
+- "I'm a Mandalorian. Weapons are part of my religion."
