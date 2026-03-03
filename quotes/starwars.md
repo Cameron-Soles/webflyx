@@ -25,3 +25,4 @@
 - "Your focus determines your reality."
 - "I can bring you in warm, or I can bring you in cold."
 - "I'm a Mandalorian. Weapons are part of my religion."
+- "I'm sorry, lady. I don't understand frog."
