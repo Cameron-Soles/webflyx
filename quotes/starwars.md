@@ -26,3 +26,4 @@
 - "I can bring you in warm, or I can bring you in cold."
 - "I'm a Mandalorian. Weapons are part of my religion."
 - "I'm sorry, lady. I don't understand frog."
+- "When one chooses to walk the way of the Mandalore, you are both hunter and prey."
