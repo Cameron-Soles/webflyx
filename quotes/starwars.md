@@ -27,3 +27,4 @@
 - "I'm a Mandalorian. Weapons are part of my religion."
 - "I'm sorry, lady. I don't understand frog."
 - "When one chooses to walk the way of the Mandalore, you are both hunter and prey."
+- "Talent is a factor. But training and focus are what truly define someone's success."
