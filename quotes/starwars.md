@@ -29,3 +29,4 @@
 - "When one chooses to walk the way of the Mandalore, you are both hunter and prey."
 - "Talent is a factor. But training and focus are what truly define someone's success."
 - "In my experience, when you think you understand the Force, you realize just how little you know."
+- "Sometimes even the right reasons have the wrong consequences."
