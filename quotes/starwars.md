@@ -31,3 +31,4 @@
 - "In my experience, when you think you understand the Force, you realize just how little you know."
 - "Sometimes even the right reasons have the wrong consequences."
 - "Don't worry, Mandalorian, my response time is quicker than organics and I'm smarter, too."
+- "Aren't you a little short for a stormtrooper?"
