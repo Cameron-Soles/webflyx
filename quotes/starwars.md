@@ -33,3 +33,4 @@
 - "Don't worry, Mandalorian, my response time is quicker than organics and I'm smarter, too."
 - "Aren't you a little short for a stormtrooper?"
 - "The Force will be with you, always."
+- "I suggest a new strategy, Artoo: Let the Wookiee win."
