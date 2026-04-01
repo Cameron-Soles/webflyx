@@ -9,3 +9,4 @@
 - Lord of the Rings
 - American Assassin
 - The Wheel of Time
+- The Hobbit
